@@ -1,5 +1,6 @@
 **
 
 # Except
+!interceptor.c
 !Dockerfile
 !entrypoint.sh
